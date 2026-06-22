@@ -1,0 +1,31 @@
+ 
+ # Node dependencies
+ node_modules/
+ node_module/
+ 
+ # Environment files
+ .env
+ .env.local
+ .env.*.local
+ 
+ # Logs
+ *.log
+ npm-debug.log*
+ 
+ # Editor / IDE
+ .vscode/
+ .idea/
+ *.swp
+ *.swo
+ *~
+ 
+ # OS files
+ .DS_Store
+ Thumbs.db
+ 
+ # Build output
+ dist/
+ build/
+ 
+ # Agent local config
+ .agents/
